@@ -1,0 +1,7 @@
+F:\Users\User\Documents\SharpDevelop Projects\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+F:\Users\User\Documents\SharpDevelop Projects\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+F:\Users\User\Documents\SharpDevelop Projects\QuizApp\QuizApp\obj\Debug\QuizApp.csprojResolveAssemblyReference.cache
+F:\Users\User\Documents\SharpDevelop Projects\QuizApp\QuizApp\obj\Debug\QuizApp.MainForm.resources
+F:\Users\User\Documents\SharpDevelop Projects\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.Cache
+F:\Users\User\Documents\SharpDevelop Projects\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+F:\Users\User\Documents\SharpDevelop Projects\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
